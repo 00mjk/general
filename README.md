@@ -5,5 +5,5 @@
 
 ## Extra
 
-* Conference call via [Zoom](https://zoom.us/)
-    - Meeting ID is `764-990-5628`.
+* Conference call via Google meet.
+    - Meeting URL is: https://meet.google.com/woz-gbwr-gwc
