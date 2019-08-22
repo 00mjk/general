@@ -6,4 +6,4 @@
 ## Extra
 
 * Conference call via Google meet.
-    - Meeting URL is: https://meet.google.com/woz-gbwr-gwc
+    - Meeting URL is:  https://meet.google.com/dhq-ydij-krs?authuser=1
