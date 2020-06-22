@@ -6,4 +6,4 @@
 ## Extra
 
 * Conference call via Google meet.
-    - Meeting URL is:  https://meet.google.com/dgd-gxik-jmc
+    - Meeting URL is:  https://meet.google.com/krm-afbs-fcd
